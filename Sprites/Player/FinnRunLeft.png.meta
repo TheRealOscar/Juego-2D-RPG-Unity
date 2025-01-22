@@ -1,0 +1,377 @@
+fileFormatVersion: 2
+guid: 0d375699d41a9e84da4e7a125a5b62d8
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3368453475805244598
+    second: FinnRunLeft_0
+  - first:
+      213: 102400824517731275
+    second: FinnRunLeft_1
+  - first:
+      213: -3356664019478654955
+    second: FinnRunLeft_2
+  - first:
+      213: -4970620693027343468
+    second: FinnRunLeft_3
+  - first:
+      213: -7667461739824562782
+    second: FinnRunLeft_4
+  - first:
+      213: 2964781988162364278
+    second: FinnRunLeft_5
+  - first:
+      213: 8288458190413694128
+    second: FinnRunLeft_6
+  - first:
+      213: -3614683380266400656
+    second: FinnRunLeft_7
+  - first:
+      213: -5555758835512652128
+    second: FinnRunLeft_8
+  - first:
+      213: 944705610735758410
+    second: FinnRunLeft_9
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 20
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: FinnRunLeft_0
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 2
+        width: 22
+        height: 38
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bc2dc3e6962fbe20800000000000000
+      internalID: 3368453475805244598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FinnRunLeft_1
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 2
+        width: 25
+        height: 41
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc32612e10dcb6100800000000000000
+      internalID: 102400824517731275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FinnRunLeft_2
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 6
+        width: 30
+        height: 39
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 510d3a0dbdbba61d0800000000000000
+      internalID: -3356664019478654955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FinnRunLeft_3
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 5
+        width: 27
+        height: 39
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49336eea0dec40bb0800000000000000
+      internalID: -4970620693027343468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FinnRunLeft_4
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 4
+        width: 24
+        height: 39
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2adbbdceb24b79590800000000000000
+      internalID: -7667461739824562782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FinnRunLeft_5
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 2
+        width: 22
+        height: 38
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 673e4e89285052920800000000000000
+      internalID: 2964781988162364278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FinnRunLeft_6
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 5
+        width: 26
+        height: 38
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b4094f5fc4860370800000000000000
+      internalID: 8288458190413694128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FinnRunLeft_7
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 9
+        width: 31
+        height: 36
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07486b7fd9016ddc0800000000000000
+      internalID: -3614683380266400656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FinnRunLeft_8
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 5
+        width: 28
+        height: 39
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0aec78756caf5e2b0800000000000000
+      internalID: -5555758835512652128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FinnRunLeft_9
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 2
+        width: 23
+        height: 41
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4c29396fb44c1d00800000000000000
+      internalID: 944705610735758410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 0064f3df4875a774a80c2b4f0331f787
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      FinnRunLeft_0: 3368453475805244598
+      FinnRunLeft_1: 102400824517731275
+      FinnRunLeft_2: -3356664019478654955
+      FinnRunLeft_3: -4970620693027343468
+      FinnRunLeft_4: -7667461739824562782
+      FinnRunLeft_5: 2964781988162364278
+      FinnRunLeft_6: 8288458190413694128
+      FinnRunLeft_7: -3614683380266400656
+      FinnRunLeft_8: -5555758835512652128
+      FinnRunLeft_9: 944705610735758410
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

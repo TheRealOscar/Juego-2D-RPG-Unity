@@ -1,0 +1,1183 @@
+fileFormatVersion: 2
+guid: b4f44f51294f4d24c90052d335dbea23
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4146386024378793426
+    second: FinnGetSword_0
+  - first:
+      213: 300919542261202080
+    second: FinnGetSword_1
+  - first:
+      213: 5455345072853100981
+    second: FinnGetSword_2
+  - first:
+      213: -342915894372337418
+    second: FinnGetSword_3
+  - first:
+      213: 2191122393531435127
+    second: FinnGetSword_4
+  - first:
+      213: 9138642510587235200
+    second: FinnGetSword_5
+  - first:
+      213: 7111896051752475244
+    second: FinnGetSword_6
+  - first:
+      213: -8960005026738065650
+    second: FinnGetSword_7
+  - first:
+      213: 7155716755829650184
+    second: FinnGetSword_8
+  - first:
+      213: 6398277099363798428
+    second: FinnGetSword_9
+  - first:
+      213: 5402510941843253141
+    second: FinnGetSword_10
+  - first:
+      213: -8464565948639800083
+    second: FinnGetSword_11
+  - first:
+      213: -785490398799768232
+    second: FinnGetSword_12
+  - first:
+      213: -2629916367878047786
+    second: FinnGetSword_13
+  - first:
+      213: 1231861835248411857
+    second: FinnGetSword_14
+  - first:
+      213: 6573149319087362772
+    second: FinnGetSword_15
+  - first:
+      213: -6153867273194827691
+    second: FinnGetSword_16
+  - first:
+      213: -3983179066593576765
+    second: FinnGetSword_17
+  - first:
+      213: -4478139909769516652
+    second: FinnGetSword_18
+  - first:
+      213: 5392796643579641117
+    second: FinnGetSword_19
+  - first:
+      213: -3080870877773279837
+    second: FinnGetSword_20
+  - first:
+      213: 5622550247590884130
+    second: FinnGetSword_21
+  - first:
+      213: 1028940484416853937
+    second: FinnGetSword_22
+  - first:
+      213: 1880593107804998393
+    second: FinnGetSword_23
+  - first:
+      213: -8659153168113414219
+    second: FinnGetSword_24
+  - first:
+      213: 7341599008165377891
+    second: FinnGetSword_25
+  - first:
+      213: 741249077361326250
+    second: FinnGetSword_26
+  - first:
+      213: -6496354879910897721
+    second: FinnGetSword_27
+  - first:
+      213: 9069279441699106633
+    second: FinnGetSword_28
+  - first:
+      213: -8844469687395539239
+    second: FinnGetSword_29
+  - first:
+      213: 4187184377191549139
+    second: FinnGetSword_30
+  - first:
+      213: -5783094927350021215
+    second: FinnGetSword_31
+  - first:
+      213: 3009213239877798246
+    second: FinnGetSword_32
+  - first:
+      213: 8671015560204583940
+    second: FinnGetSword_33
+  - first:
+      213: 466172758158911404
+    second: FinnGetSword_34
+  - first:
+      213: 8800328293277719633
+    second: FinnGetSword_35
+  - first:
+      213: 724912877299593716
+    second: FinnGetSword_36
+  - first:
+      213: -4889542734796907792
+    second: FinnGetSword_37
+  - first:
+      213: 5222946556342109397
+    second: FinnGetSword_38
+  - first:
+      213: 2981886529543153360
+    second: FinnGetSword_39
+  - first:
+      213: 63725048375048219
+    second: FinnGetSword_40
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 20
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: FinnGetSword_0
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 109
+        width: 26
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ddfdb4ee1cea8930800000000000000
+      internalID: 4146386024378793426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FinnGetSword_1
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 112
+        width: 29
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0acb376bab41d2400800000000000000
+      internalID: 300919542261202080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FinnGetSword_2
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 110
+        width: 40
+        height: 79
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b9269aa07745bb40800000000000000
+      internalID: 5455345072853100981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FinnGetSword_3
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 109
+        width: 45
+        height: 82
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f8f9189fc7bd3bf0800000000000000
+      internalID: -342915894372337418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FinnGetSword_4
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 109
+        width: 46
+        height: 84
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77848d5353e686e10800000000000000
+      internalID: 2191122393531435127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FinnGetSword_5
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 109
+        width: 46
+        height: 85
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08b06dcd1faf2de70800000000000000
+      internalID: 9138642510587235200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FinnGetSword_6
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 109
+        width: 46
+        height: 86
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6a953457c782b260800000000000000
+      internalID: 7111896051752475244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FinnGetSword_7
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 109
+        width: 46
+        height: 87
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0f209b76eaa7a380800000000000000
+      internalID: -8960005026738065650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FinnGetSword_8
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 109
+        width: 46
+        height: 86
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80379801a763e4360800000000000000
+      internalID: 7155716755829650184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FinnGetSword_9
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 109
+        width: 46
+        height: 85
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9d88125f1f3bc850800000000000000
+      internalID: 6398277099363798428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FinnGetSword_10
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 109
+        width: 46
+        height: 81
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5976abfe31399fa40800000000000000
+      internalID: 5402510941843253141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FinnGetSword_11
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 109
+        width: 46
+        height: 76
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de4157ded12d78a80800000000000000
+      internalID: -8464565948639800083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FinnGetSword_12
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 54
+        width: 33
+        height: 39
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8555f0dd4a06915f0800000000000000
+      internalID: -785490398799768232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FinnGetSword_13
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 54
+        width: 41
+        height: 42
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d7b4af4ff8a08bd0800000000000000
+      internalID: -2629916367878047786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FinnGetSword_14
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 54
+        width: 43
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d4a75effc3781110800000000000000
+      internalID: 1231861835248411857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FinnGetSword_15
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 54
+        width: 42
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d29dcbca74883b50800000000000000
+      internalID: 6573149319087362772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FinnGetSword_16
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 54
+        width: 41
+        height: 42
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5501252d152199aa0800000000000000
+      internalID: -6153867273194827691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FinnGetSword_17
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 54
+        width: 34
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c8fae22eb7e8b8c0800000000000000
+      internalID: -3983179066593576765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FinnGetSword_18
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 54
+        width: 35
+        height: 38
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49920bf6a737ad1c0800000000000000
+      internalID: -4478139909769516652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FinnGetSword_19
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 54
+        width: 41
+        height: 42
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1dbb7e99ff07da40800000000000000
+      internalID: 5392796643579641117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FinnGetSword_20
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 54
+        width: 43
+        height: 50
+      alignment: 9
+      pivot: {x: 0.7, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ad4a73824c8e35d0800000000000000
+      internalID: -3080870877773279837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FinnGetSword_21
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 54
+        width: 42
+        height: 49
+      alignment: 9
+      pivot: {x: 0.7, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 223707f19af470e40800000000000000
+      internalID: 5622550247590884130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FinnGetSword_22
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 54
+        width: 41
+        height: 42
+      alignment: 9
+      pivot: {x: 0.7, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b75fa44be7874e00800000000000000
+      internalID: 1028940484416853937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FinnGetSword_23
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 54
+        width: 34
+        height: 37
+      alignment: 9
+      pivot: {x: 0.6, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fac3cdb775391a10800000000000000
+      internalID: 1880593107804998393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FinnGetSword_24
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 54
+        width: 37
+        height: 39
+      alignment: 9
+      pivot: {x: 0.6, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bfc6ee521284d780800000000000000
+      internalID: -8659153168113414219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FinnGetSword_25
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 54
+        width: 35
+        height: 38
+      alignment: 9
+      pivot: {x: 0.6, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 367be05866992e560800000000000000
+      internalID: 7341599008165377891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FinnGetSword_26
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 54
+        width: 41
+        height: 42
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa8353acb12794a00800000000000000
+      internalID: 741249077361326250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FinnGetSword_27
+      rect:
+        serializedVersion: 2
+        x: 706
+        y: 54
+        width: 43
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c71908e7af48d5a0800000000000000
+      internalID: -6496354879910897721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FinnGetSword_28
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 54
+        width: 42
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94f6a33e99d8cdd70800000000000000
+      internalID: 9069279441699106633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FinnGetSword_29
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 54
+        width: 41
+        height: 42
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d62418eda1224580800000000000000
+      internalID: -8844469687395539239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FinnGetSword_30
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 54
+        width: 34
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d84193a10edb1a30800000000000000
+      internalID: 4187184377191549139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FinnGetSword_31
+      rect:
+        serializedVersion: 2
+        x: 902
+        y: 54
+        width: 35
+        height: 38
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a340f0cdc15ebfa0800000000000000
+      internalID: -5783094927350021215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FinnGetSword_32
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 3
+        width: 33
+        height: 39
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66981588f7fd2c920800000000000000
+      internalID: 3009213239877798246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FinnGetSword_33
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 3
+        width: 38
+        height: 46
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40401e306b2a55870800000000000000
+      internalID: 8671015560204583940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FinnGetSword_34
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 3
+        width: 38
+        height: 42
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca7a60657ad287600800000000000000
+      internalID: 466172758158911404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FinnGetSword_35
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 3
+        width: 39
+        height: 39
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15c53a3e4fb012a70800000000000000
+      internalID: 8800328293277719633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FinnGetSword_36
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 3
+        width: 39
+        height: 41
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f17c80db686f0a00800000000000000
+      internalID: 724912877299593716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FinnGetSword_37
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 3
+        width: 39
+        height: 39
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fa9652e9cad42cb0800000000000000
+      internalID: -4889542734796907792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FinnGetSword_38
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 3
+        width: 38
+        height: 46
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d40f9b7832ab7840800000000000000
+      internalID: 5222946556342109397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FinnGetSword_39
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 3
+        width: 38
+        height: 42
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d621f9fff9c16920800000000000000
+      internalID: 2981886529543153360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FinnGetSword_40
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 3
+        width: 38
+        height: 39
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1870b7089562e000800000000000000
+      internalID: 63725048375048219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: aebb3aac57c54584f9280c4b7bf2a4fd
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      FinnGetSword_0: 4146386024378793426
+      FinnGetSword_1: 300919542261202080
+      FinnGetSword_10: 5402510941843253141
+      FinnGetSword_11: -8464565948639800083
+      FinnGetSword_12: -785490398799768232
+      FinnGetSword_13: -2629916367878047786
+      FinnGetSword_14: 1231861835248411857
+      FinnGetSword_15: 6573149319087362772
+      FinnGetSword_16: -6153867273194827691
+      FinnGetSword_17: -3983179066593576765
+      FinnGetSword_18: -4478139909769516652
+      FinnGetSword_19: 5392796643579641117
+      FinnGetSword_2: 5455345072853100981
+      FinnGetSword_20: -3080870877773279837
+      FinnGetSword_21: 5622550247590884130
+      FinnGetSword_22: 1028940484416853937
+      FinnGetSword_23: 1880593107804998393
+      FinnGetSword_24: -8659153168113414219
+      FinnGetSword_25: 7341599008165377891
+      FinnGetSword_26: 741249077361326250
+      FinnGetSword_27: -6496354879910897721
+      FinnGetSword_28: 9069279441699106633
+      FinnGetSword_29: -8844469687395539239
+      FinnGetSword_3: -342915894372337418
+      FinnGetSword_30: 4187184377191549139
+      FinnGetSword_31: -5783094927350021215
+      FinnGetSword_32: 3009213239877798246
+      FinnGetSword_33: 8671015560204583940
+      FinnGetSword_34: 466172758158911404
+      FinnGetSword_35: 8800328293277719633
+      FinnGetSword_36: 724912877299593716
+      FinnGetSword_37: -4889542734796907792
+      FinnGetSword_38: 5222946556342109397
+      FinnGetSword_39: 2981886529543153360
+      FinnGetSword_4: 2191122393531435127
+      FinnGetSword_40: 63725048375048219
+      FinnGetSword_5: 9138642510587235200
+      FinnGetSword_6: 7111896051752475244
+      FinnGetSword_7: -8960005026738065650
+      FinnGetSword_8: 7155716755829650184
+      FinnGetSword_9: 6398277099363798428
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

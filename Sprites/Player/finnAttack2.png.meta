@@ -1,0 +1,663 @@
+fileFormatVersion: 2
+guid: 3327231125c603342a9e5c797d614a31
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2536835015349649260
+    second: finnAttack2_0
+  - first:
+      213: -7282451703024304758
+    second: finnAttack2_1
+  - first:
+      213: -8444156103426442577
+    second: finnAttack2_2
+  - first:
+      213: 1428697111639968560
+    second: finnAttack2_3
+  - first:
+      213: -9155639671524125462
+    second: finnAttack2_4
+  - first:
+      213: 7172014041265006273
+    second: finnAttack2_5
+  - first:
+      213: 7788115395885104045
+    second: finnAttack2_6
+  - first:
+      213: 1606882737249906888
+    second: finnAttack2_7
+  - first:
+      213: 8434134065755987417
+    second: finnAttack2_8
+  - first:
+      213: 1999545962089414994
+    second: finnAttack2_9
+  - first:
+      213: 2343635003971084834
+    second: finnAttack2_10
+  - first:
+      213: 2626387863500371161
+    second: finnAttack2_11
+  - first:
+      213: -4516460222304071084
+    second: finnAttack2_12
+  - first:
+      213: -3841934768306691688
+    second: finnAttack2_13
+  - first:
+      213: 2158540844601925756
+    second: finnAttack2_14
+  - first:
+      213: 7558040726502669674
+    second: finnAttack2_15
+  - first:
+      213: -5969528445101993847
+    second: finnAttack2_16
+  - first:
+      213: -6442298678791162259
+    second: finnAttack2_17
+  - first:
+      213: 4089245525923944764
+    second: finnAttack2_18
+  - first:
+      213: 6759386736605303558
+    second: finnAttack2_19
+  - first:
+      213: -7215739189217680022
+    second: finnAttack2_20
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 20
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: finnAttack2_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 167
+        width: 35
+        height: 54
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6f30b77106a43320800000000000000
+      internalID: 2536835015349649260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: finnAttack2_1
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 167
+        width: 37
+        height: 50
+      alignment: 9
+      pivot: {x: 0.4, y: 0.12}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8d3c4b92c88fea90800000000000000
+      internalID: -7282451703024304758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: finnAttack2_2
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 144
+        width: 29
+        height: 56
+      alignment: 9
+      pivot: {x: 0.4835826, y: 0.52}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: faaf15353c450da80800000000000000
+      internalID: -8444156103426442577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: finnAttack2_3
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 154
+        width: 41
+        height: 43
+      alignment: 9
+      pivot: {x: 0.3, y: 0.46}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03b4de61470c3d310800000000000000
+      internalID: 1428697111639968560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: finnAttack2_4
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 164
+        width: 54
+        height: 33
+      alignment: 9
+      pivot: {x: 0.24, y: 0.28}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae494573a32a0f080800000000000000
+      internalID: -9155639671524125462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: finnAttack2_5
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 167
+        width: 33
+        height: 36
+      alignment: 9
+      pivot: {x: 0.4, y: 0.12}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c6e6b585cc188360800000000000000
+      internalID: 7172014041265006273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: finnAttack2_6
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 167
+        width: 32
+        height: 36
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dab7b7970b1f41c60800000000000000
+      internalID: 7788115395885104045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: finnAttack2_7
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 74
+        width: 44
+        height: 44
+      alignment: 9
+      pivot: {x: 0.35, y: 0.27}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c0fc7df55bcc4610800000000000000
+      internalID: 1606882737249906888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: finnAttack2_8
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 70
+        width: 38
+        height: 48
+      alignment: 9
+      pivot: {x: 0.44999996, y: 0.35}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9dd18613f301c0570800000000000000
+      internalID: 8434134065755987417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: finnAttack2_9
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 81
+        width: 33
+        height: 58
+      alignment: 9
+      pivot: {x: 0.45, y: 0.12}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 251086e5570dfbb10800000000000000
+      internalID: 1999545962089414994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: finnAttack2_10
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 81
+        width: 44
+        height: 46
+      alignment: 9
+      pivot: {x: 0.7, y: 0.12}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2222ed67e93468020800000000000000
+      internalID: 2343635003971084834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: finnAttack2_11
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 81
+        width: 53
+        height: 38
+      alignment: 9
+      pivot: {x: 0.75, y: 0.12}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d4365eb8ddc27420800000000000000
+      internalID: 2626387863500371161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: finnAttack2_12
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 81
+        width: 37
+        height: 36
+      alignment: 9
+      pivot: {x: 0.7, y: 0.12}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45252676b5f4251c0800000000000000
+      internalID: -4516460222304071084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: finnAttack2_13
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 81
+        width: 39
+        height: 36
+      alignment: 9
+      pivot: {x: 0.45, y: 0.12}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8916bd40fa4beaac0800000000000000
+      internalID: -3841934768306691688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: finnAttack2_14
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 4
+        width: 41
+        height: 55
+      alignment: 9
+      pivot: {x: 0.78, y: 0.12}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c706ba3367da4fd10800000000000000
+      internalID: 2158540844601925756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: finnAttack2_15
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 4
+        width: 35
+        height: 61
+      alignment: 9
+      pivot: {x: 0.75, y: 0.12}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6d702d1ffd83e860800000000000000
+      internalID: 7558040726502669674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: finnAttack2_16
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 3
+        width: 63
+        height: 37
+      alignment: 9
+      pivot: {x: 0.2, y: 0.12}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9801b11d189f72da0800000000000000
+      internalID: -5969528445101993847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: finnAttack2_17
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 4
+        width: 66
+        height: 34
+      alignment: 9
+      pivot: {x: 0.2, y: 0.12}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d663fa10c7b5896a0800000000000000
+      internalID: -6442298678791162259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: finnAttack2_18
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 4
+        width: 62
+        height: 33
+      alignment: 9
+      pivot: {x: 0.2, y: 0.12}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c395d0cd32befb830800000000000000
+      internalID: 4089245525923944764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: finnAttack2_19
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 4
+        width: 40
+        height: 39
+      alignment: 9
+      pivot: {x: 0.3, y: 0.12}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60398d69c6a2ecd50800000000000000
+      internalID: 6759386736605303558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: finnAttack2_20
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 4
+        width: 25
+        height: 39
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a65a0d2207b8cdb90800000000000000
+      internalID: -7215739189217680022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 868dc051d3d69cc4891fa02a3af518ba
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      finnAttack2_0: 2536835015349649260
+      finnAttack2_1: -7282451703024304758
+      finnAttack2_10: 2343635003971084834
+      finnAttack2_11: 2626387863500371161
+      finnAttack2_12: -4516460222304071084
+      finnAttack2_13: -3841934768306691688
+      finnAttack2_14: 2158540844601925756
+      finnAttack2_15: 7558040726502669674
+      finnAttack2_16: -5969528445101993847
+      finnAttack2_17: -6442298678791162259
+      finnAttack2_18: 4089245525923944764
+      finnAttack2_19: 6759386736605303558
+      finnAttack2_2: -8444156103426442577
+      finnAttack2_20: -7215739189217680022
+      finnAttack2_3: 1428697111639968560
+      finnAttack2_4: -9155639671524125462
+      finnAttack2_5: 7172014041265006273
+      finnAttack2_6: 7788115395885104045
+      finnAttack2_7: 1606882737249906888
+      finnAttack2_8: 8434134065755987417
+      finnAttack2_9: 1999545962089414994
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

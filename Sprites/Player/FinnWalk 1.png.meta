@@ -1,0 +1,741 @@
+fileFormatVersion: 2
+guid: 1cd964f1080a8e04cacb65c12e2acf4e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6894165699816517346
+    second: FinnWalk 1_0
+  - first:
+      213: -8473354723590154826
+    second: FinnWalk 1_1
+  - first:
+      213: 3185621046473706143
+    second: FinnWalk 1_2
+  - first:
+      213: 2905154293024280453
+    second: FinnWalk 1_3
+  - first:
+      213: -7717068350553605407
+    second: FinnWalk 1_4
+  - first:
+      213: -7086656294798843117
+    second: FinnWalk 1_5
+  - first:
+      213: -2674186462013183750
+    second: FinnWalk 1_6
+  - first:
+      213: 4078544285905241995
+    second: FinnWalk 1_7
+  - first:
+      213: -2533620353916352158
+    second: FinnWalk 1_8
+  - first:
+      213: -7556586916830303427
+    second: FinnWalk 1_9
+  - first:
+      213: -4963260291121795706
+    second: FinnWalk 1_10
+  - first:
+      213: 3409080265457381540
+    second: FinnWalk 1_11
+  - first:
+      213: -8015375244075961654
+    second: FinnWalk 1_12
+  - first:
+      213: -8215661146361289279
+    second: FinnWalk 1_13
+  - first:
+      213: -9190938018515031240
+    second: FinnWalk 1_14
+  - first:
+      213: -964975573467863766
+    second: FinnWalk 1_15
+  - first:
+      213: 5429111822868538816
+    second: FinnWalk 1_16
+  - first:
+      213: 4573219981774848848
+    second: FinnWalk 1_17
+  - first:
+      213: 4558085542003803834
+    second: FinnWalk 1_18
+  - first:
+      213: 9166514161995205671
+    second: FinnWalk 1_19
+  - first:
+      213: -4513898922887513173
+    second: FinnWalk 1_20
+  - first:
+      213: 7431647188544759616
+    second: FinnWalk 1_21
+  - first:
+      213: -7040261375830554926
+    second: FinnWalk 1_22
+  - first:
+      213: 4729836526766763723
+    second: FinnWalk 1_23
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 20
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: FinnWalk 1_0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 99
+        width: 32
+        height: 39
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2eeee385d2ffcaf50800000000000000
+      internalID: 6894165699816517346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FinnWalk 1_1
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 104
+        width: 32
+        height: 36
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b5d78cc5c8986a80800000000000000
+      internalID: -8473354723590154826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FinnWalk 1_2
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 100
+        width: 30
+        height: 38
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9ac210b679953c20800000000000000
+      internalID: 3185621046473706143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FinnWalk 1_3
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 97
+        width: 27
+        height: 39
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58fc965ff6e215820800000000000000
+      internalID: 2905154293024280453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FinnWalk 1_4
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 99
+        width: 32
+        height: 39
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1eab7d1d83777e490800000000000000
+      internalID: -7717068350553605407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FinnWalk 1_5
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 104
+        width: 32
+        height: 36
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 313aa3785a327ad90800000000000000
+      internalID: -7086656294798843117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FinnWalk 1_6
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 100
+        width: 30
+        height: 38
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af8ab8cc49163ead0800000000000000
+      internalID: -2674186462013183750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FinnWalk 1_7
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 97
+        width: 27
+        height: 39
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b87c4124b66e99830800000000000000
+      internalID: 4078544285905241995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FinnWalk 1_8
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 51
+        width: 31
+        height: 39
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 393564077ecb3a44ba47e187f2c8ff9f
+      internalID: -2533620353916352158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FinnWalk 1_9
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 53
+        width: 31
+        height: 39
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f877f574ea136a4eb0e94379db1e714
+      internalID: -7556586916830303427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FinnWalk 1_10
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 52
+        width: 28
+        height: 38
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 586c63af8a069b34580c0a87af05404b
+      internalID: -4963260291121795706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FinnWalk 1_11
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 49
+        width: 26
+        height: 39
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a8fc50a81bafd7448ee9d359ee88b49
+      internalID: 3409080265457381540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FinnWalk 1_12
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 51
+        width: 31
+        height: 39
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e072128e3bce0404cb167abe0959f66f
+      internalID: -8015375244075961654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FinnWalk 1_13
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 53
+        width: 31
+        height: 39
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b40b2f078a16e77498e9cc76e1587159
+      internalID: -8215661146361289279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FinnWalk 1_14
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 52
+        width: 28
+        height: 38
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5bb3c651dbab4d4596b138f730f952c
+      internalID: -9190938018515031240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FinnWalk 1_15
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 49
+        width: 26
+        height: 39
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d4dd80729b17a84db2359417ef44335
+      internalID: -964975573467863766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FinnWalk 1_16
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 2
+        width: 26
+        height: 41
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c95570dcbab97c948ad68f7c393a27cf
+      internalID: 5429111822868538816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FinnWalk 1_17
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 2
+        width: 24
+        height: 42
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd13b01e55aac494a8c3427be4715b2b
+      internalID: 4573219981774848848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FinnWalk 1_18
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 2
+        width: 24
+        height: 40
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c03876039f6573418374389acc4a6eb
+      internalID: 4558085542003803834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FinnWalk 1_19
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 2
+        width: 25
+        height: 39
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37a2d00261b9df1498cdc8bdf6b30570
+      internalID: 9166514161995205671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FinnWalk 1_20
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 2
+        width: 22
+        height: 41
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d1dc6cfa960c5a42a523d4eb4c33d8e
+      internalID: -4513898922887513173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FinnWalk 1_21
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 2
+        width: 22
+        height: 42
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aad36065e24a5b3479d35a6163e44d4a
+      internalID: 7431647188544759616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FinnWalk 1_22
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 2
+        width: 25
+        height: 40
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70be9355131a823469f244fce8f33f65
+      internalID: -7040261375830554926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FinnWalk 1_23
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 2
+        width: 27
+        height: 39
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 467deaa5804191a429e37242d5accefb
+      internalID: 4729836526766763723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: e7e974c71dec8b34cac79e71e9db900a
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      FinnWalk 1_0: 6894165699816517346
+      FinnWalk 1_1: -8473354723590154826
+      FinnWalk 1_10: -4963260291121795706
+      FinnWalk 1_11: 3409080265457381540
+      FinnWalk 1_12: -8015375244075961654
+      FinnWalk 1_13: -8215661146361289279
+      FinnWalk 1_14: -9190938018515031240
+      FinnWalk 1_15: -964975573467863766
+      FinnWalk 1_16: 5429111822868538816
+      FinnWalk 1_17: 4573219981774848848
+      FinnWalk 1_18: 4558085542003803834
+      FinnWalk 1_19: 9166514161995205671
+      FinnWalk 1_2: 3185621046473706143
+      FinnWalk 1_20: -4513898922887513173
+      FinnWalk 1_21: 7431647188544759616
+      FinnWalk 1_22: -7040261375830554926
+      FinnWalk 1_23: 4729836526766763723
+      FinnWalk 1_3: 2905154293024280453
+      FinnWalk 1_4: -7717068350553605407
+      FinnWalk 1_5: -7086656294798843117
+      FinnWalk 1_6: -2674186462013183750
+      FinnWalk 1_7: 4078544285905241995
+      FinnWalk 1_8: -2533620353916352158
+      FinnWalk 1_9: -7556586916830303427
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

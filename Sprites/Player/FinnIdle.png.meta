@@ -1,0 +1,663 @@
+fileFormatVersion: 2
+guid: 68c0e555685f9e6438c46170ce5865de
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5914207019025566023
+    second: FinnIdle_0
+  - first:
+      213: 3304608648694484511
+    second: FinnIdle_1
+  - first:
+      213: 7315394811250934894
+    second: FinnIdle_2
+  - first:
+      213: -5606430696637890696
+    second: FinnIdle_3
+  - first:
+      213: 8931182864155415029
+    second: FinnIdle_4
+  - first:
+      213: -1274239955983078675
+    second: FinnIdle_5
+  - first:
+      213: -7070478226682480263
+    second: FinnIdle_6
+  - first:
+      213: 1248411816954189038
+    second: FinnIdle_7
+  - first:
+      213: -6909116763672200251
+    second: FinnIdle_8
+  - first:
+      213: 483198353259596759
+    second: FinnIdle_9
+  - first:
+      213: -7268652713197076418
+    second: FinnIdle_10
+  - first:
+      213: 4536210948184059528
+    second: FinnIdle_11
+  - first:
+      213: 3069529480810221691
+    second: FinnIdle_12
+  - first:
+      213: -3265363479445780557
+    second: FinnIdle_13
+  - first:
+      213: 5578356406388012413
+    second: FinnIdle_14
+  - first:
+      213: 6611187263354410757
+    second: FinnIdle_15
+  - first:
+      213: 3096963059872575803
+    second: FinnIdle_16
+  - first:
+      213: 6698607726848286279
+    second: FinnIdle_17
+  - first:
+      213: -3224538489483664561
+    second: FinnIdle_18
+  - first:
+      213: -8274975224101964752
+    second: FinnIdle_19
+  - first:
+      213: -8420662293932010750
+    second: FinnIdle_20
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 20
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: FinnIdle_0
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 91
+        width: 27
+        height: 38
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b6fbde0d048ceda0800000000000000
+      internalID: -5914207019025566023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FinnIdle_1
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 91
+        width: 27
+        height: 39
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1e4e13be045cdd20800000000000000
+      internalID: 3304608648694484511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FinnIdle_2
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 91
+        width: 29
+        height: 39
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e64095c72d0858560800000000000000
+      internalID: 7315394811250934894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FinnIdle_3
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 91
+        width: 31
+        height: 39
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87f7d0d4cf4f132b0800000000000000
+      internalID: -5606430696637890696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FinnIdle_4
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 91
+        width: 31
+        height: 38
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f11a0ade7fe1fb70800000000000000
+      internalID: 8931182864155415029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FinnIdle_5
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 91
+        width: 29
+        height: 37
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: deae401e28df05ee0800000000000000
+      internalID: -1274239955983078675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FinnIdle_6
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 91
+        width: 27
+        height: 37
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 979f47a838d90ed90800000000000000
+      internalID: -7070478226682480263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FinnIdle_7
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 48
+        width: 27
+        height: 37
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee454f2eeef335110800000000000000
+      internalID: 1248411816954189038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FinnIdle_8
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 48
+        width: 27
+        height: 38
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cb3f95d8e2ed10a0800000000000000
+      internalID: -6909116763672200251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FinnIdle_9
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 48
+        width: 29
+        height: 38
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7db871a975aa4b600800000000000000
+      internalID: 483198353259596759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FinnIdle_10
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 48
+        width: 31
+        height: 38
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e30853a4ede802b90800000000000000
+      internalID: -7268652713197076418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FinnIdle_11
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 48
+        width: 31
+        height: 37
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88eafb0d2dbd3fe30800000000000000
+      internalID: 4536210948184059528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FinnIdle_12
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 48
+        width: 29
+        height: 36
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b70584bbcc8299a20800000000000000
+      internalID: 3069529480810221691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FinnIdle_13
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 48
+        width: 27
+        height: 36
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b7c91157391fa2d0800000000000000
+      internalID: -3265363479445780557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FinnIdle_14
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 2
+        width: 21
+        height: 40
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d753841a89d4a6d40800000000000000
+      internalID: 5578356406388012413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FinnIdle_15
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 2
+        width: 21
+        height: 41
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50793d7d9c7afbb50800000000000000
+      internalID: 6611187263354410757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FinnIdle_16
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 2
+        width: 21
+        height: 41
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b31363a9e7f9afa20800000000000000
+      internalID: 3096963059872575803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FinnIdle_17
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 2
+        width: 21
+        height: 41
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74e9a70ac3c36fc50800000000000000
+      internalID: 6698607726848286279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FinnIdle_18
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 2
+        width: 21
+        height: 40
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4360c104532043d0800000000000000
+      internalID: -3224538489483664561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FinnIdle_19
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 2
+        width: 21
+        height: 39
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0347e3a50e1692d80800000000000000
+      internalID: -8274975224101964752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FinnIdle_20
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 2
+        width: 21
+        height: 39
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20318ac124cc32b80800000000000000
+      internalID: -8420662293932010750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 918968556ba30354d9547b36a477a9e0
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      FinnIdle_0: -5914207019025566023
+      FinnIdle_1: 3304608648694484511
+      FinnIdle_10: -7268652713197076418
+      FinnIdle_11: 4536210948184059528
+      FinnIdle_12: 3069529480810221691
+      FinnIdle_13: -3265363479445780557
+      FinnIdle_14: 5578356406388012413
+      FinnIdle_15: 6611187263354410757
+      FinnIdle_16: 3096963059872575803
+      FinnIdle_17: 6698607726848286279
+      FinnIdle_18: -3224538489483664561
+      FinnIdle_19: -8274975224101964752
+      FinnIdle_2: 7315394811250934894
+      FinnIdle_20: -8420662293932010750
+      FinnIdle_3: -5606430696637890696
+      FinnIdle_4: 8931182864155415029
+      FinnIdle_5: -1274239955983078675
+      FinnIdle_6: -7070478226682480263
+      FinnIdle_7: 1248411816954189038
+      FinnIdle_8: -6909116763672200251
+      FinnIdle_9: 483198353259596759
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
