@@ -1,14 +1,15 @@
 # ADVENTURES
-¡Bienvenid@ al repositorio de Adventures ! Este es un juego 2D desarrollado en Unity que combina exploración y combate. Es un mundo lleno de acción y desafíos donde te enfrentas a enemigos inteligentes y exploras los diferentes biomas.
+¡Bienvenid@ al repositorio de Adventures ! Este es un juego 2D desarrollado en Unity que combina exploración y combate. 
+Es un mundo lleno de acción y desafíos donde te enfrentas a enemigos inteligentes y exploras los diferentes biomas.
 
 ## 📸 Capturas del Juego
 Este es el menú de inicio, el cual aparece al iniciar el juego.
 
-![Image](https://github.com/user-attachments/assets/a3980d59-8773-4934-9b70-edf57657f356)
+![MainMenu](https://github.com/user-attachments/assets/a3980d59-8773-4934-9b70-edf57657f356)
 
-Esta es la pantalla al inicio de partida.
+Esta es el inicio de partida.
 
-![Image](https://github.com/user-attachments/assets/da598e4a-fa97-463e-8086-bc52cc2f8ba4)
+![Inicio](https://github.com/user-attachments/assets/da598e4a-fa97-463e-8086-bc52cc2f8ba4)
 
 [Más Capturas](https://github.com/TheRealOscar/Juego-2D-RPG-Unity/issues/1#issue-2856260422)
 
